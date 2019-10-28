@@ -1,0 +1,5 @@
+# *** Aviso! Seu domínio personalizado ainda não está usando HTTPS ***
+# Essas regras serão alteradas se você alterar os domínios personalizados do site ou as configurações de HTTPS
+
+# Redirecione o subdomínio Netlify padrão para o domínio principal
+http://equipekingsofroads.netlify.com/* http://equiepekingsofroads.ml/:splat 301!
